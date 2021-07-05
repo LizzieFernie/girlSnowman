@@ -28,8 +28,8 @@ export default class Start extends Sprite {
   *whenthisspriteclicked() {
     this.broadcast("startGame");
     this.visible = false;
-    this.stage.costume = "board";
-    this.broadcast("board");
+    this.stage.costume = "Blue Sky 2";
+    this.broadcast("bgboard");
   }
 
   *whenGreenFlagClicked() {
