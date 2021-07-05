@@ -37,5 +37,6 @@ export default class Stage extends StageBase {
 
   *whenGreenFlagClicked() {
     this.costume = "Blue Sky 2";
+        this.visible = true;
   }
 }
