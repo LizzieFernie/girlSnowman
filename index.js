@@ -112,6 +112,15 @@ const sprites = {
     visible: true,
     layerOrder: 10
   }),
+    Start: new Start({
+    x: 140.39430872249287,
+    y: -143.74047306456814,
+    direction: 90,
+    costumeNumber: 1,
+    size: 50,
+    visible: false,
+    layerOrder: 6
+  }),
   Scarf2: new Scarf2({
     x: -146.78147232006629,
     y: 80.62422459242771,
