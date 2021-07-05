@@ -283,7 +283,7 @@ export default class Girlh extends Sprite {
     }
   }
 
-  *whenGreenFlagClicked2() {
+  *whenGreenFlagClicked() {
     while (!(this.stage.vars.done == 2)) {
       yield;
     }
