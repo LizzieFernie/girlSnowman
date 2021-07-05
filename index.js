@@ -6,6 +6,7 @@ import LeftStick from "./LeftStick/LeftStick.js";
 import RightHand from "./RightHand/RightHand.js";
 import Hat from "./Hat/Hat.js";
 import Scarf from "./Scarf/Scarf.js";
+import Start from "./Start/Start.js";
 import Snowmanface from "./Snowmanface/Snowmanface.js";
 import Bellyf from "./Bellyf/Bellyf.js";
 import LeftStick2 from "./LeftStick2/LeftStick2.js";
