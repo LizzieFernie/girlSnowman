@@ -50,7 +50,7 @@ export default class Girlh extends Sprite {
     ];
   }
 
-  *whenGreenFlagClicked() {
+  *whenIReceivebg() {
     this.stage.vars.belly = 0;
     this.stage.vars.done = 0;
     this.stage.vars.tillscarfcollected = 0;
