@@ -59,6 +59,7 @@ export default class Girlh extends Sprite {
     this.visible = true;
     this.goto(-205, 144);
     this.broadcast("sademoj");
+    this.stage.costume = "Blue Sky 2";
   }
 
   *whenIReceiveSwitch() {
